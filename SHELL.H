@@ -1,9 +1,9 @@
 #ifndef SHELL_H
 #define SHELL_H
 
-/*
+/**
  * Code by: BADAR BENAMI & MANEL KHARBOUT.
-*/
+ */
 
 #include <sys/wait.h>
 #include <sys/stat.h>
